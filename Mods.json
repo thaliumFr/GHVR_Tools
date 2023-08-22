@@ -1,4 +1,10 @@
 {
   "1.2.1": [
+    {
+      "name":"FakeMod",
+      "version": "3.1.4",
+      "id": "FakeModID",
+      "download": ""
+    }
   ]
 }
