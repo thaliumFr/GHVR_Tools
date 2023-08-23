@@ -8,10 +8,10 @@
       "download": ""
     },
     {
-      "name":"RuntimeUnityEditor",
+      "name":"RuntimeUnityEditor.Bepin5",
       "author": "goodQuestionLMAO",
       "version": "5.0.0.0",
-      "id": "RuntimeUnityEditor",
+      "id": "RuntimeUnityEditor.Bepin5",
       "download": "https://github.com/thaliumFr/GHVR_Tools/raw/main/RuntimeUnityEditor.dll"
     }
   ]
