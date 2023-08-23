@@ -6,6 +6,13 @@
       "version": "3.1.4",
       "id": "FakeModID",
       "download": ""
+    },
+    {
+      "name":"RuntimeUnityEditor",
+      "author": "goodQuestionLMAO",
+      "version": "5.0.0.0",
+      "id": "RuntimeUnityEditor",
+      "download": "https://github.com/thaliumFr/GHVR_Tools/raw/main/RuntimeUnityEditor.dll"
     }
   ]
 }
